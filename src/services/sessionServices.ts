@@ -8,7 +8,7 @@ interface SignInParams {
 export const signIn = async (credentials: SignInParams) => {
   const { email, password } = credentials;
 
-  const res = await api.post('/login', {
+  const res = await api.post('login', {
     email,
     password,
   });

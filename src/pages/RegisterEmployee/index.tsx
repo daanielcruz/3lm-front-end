@@ -55,8 +55,6 @@ const RegisterEmployee: React.FC = () => {
   const handleSubmit = useCallback(
     async (data: NewEmployeeFormData, { reset }) => {
       data.age = moment(data.age).format('MM-DD-YYYY');
-
-      console.log(data.age);
       try {
         setLoading(true);
         await api.post('employee', data);

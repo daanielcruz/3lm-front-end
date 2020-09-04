@@ -82,7 +82,7 @@ const EditEmployee = () => {
     async (data: EmployeeProps) => {
       const age = new Date(data.age);
 
-      data.age = age.toLocaleDateString('pt-BR');
+      data.age = age.toLocaleDateString('en-US');
 
       try {
         setLoading(true);

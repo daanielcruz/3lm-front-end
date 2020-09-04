@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3333',
+  baseURL: 'https://back-end3lm.herokuapp.com/',
   timeout: 30000,
 });
 
