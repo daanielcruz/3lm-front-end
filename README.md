@@ -3,8 +3,6 @@ Este repo faz parte do processo seletivo da 3lm.
 
 Usuário teste: test2@test.com Senha: 123
 
-<<<<<<< HEAD
-=======
 Deploy front-end: https://front-end3lm.herokuapp.com/ (Aguardar o time de wake-up do heroku) <br />
 Deploy back-end: https://back-end3lm.herokuapp.com/
 
@@ -23,8 +21,6 @@ Deploy back-end: https://back-end3lm.herokuapp.com/
 Cique e veja a source do Back-end: https://github.com/daanielcruz/3lm-back-end
 
 ## :question: Como executar:
-<<<<<<< HEAD
-=======
 
 Para criar uma conta de admin (login area) deve-se enviar uma req POST para o endpoint /admin com email e password, ex:
 ```bash
@@ -34,7 +30,6 @@ Para criar uma conta de admin (login area) deve-se enviar uma req POST para o en
 }
 ```
 
->>>>>>> a8847d6501aa309fec631f834f04ee63a37dadbc
 Para clonar e rodar esta aplicação, você vai precisar de Git, Node.js e Yarn =)
 ```bash
 ## Clone este repositório
