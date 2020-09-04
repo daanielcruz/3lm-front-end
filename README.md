@@ -37,6 +37,9 @@ $ git clone https://github.com/daanielcruz/3lm-front-end
 ## Entre no repositório
 $ cd 3lm-front-end
 
+## Caso esteja utilizando o back-end offline
+$ Navegue até '/src/services/api.ts' e troque a baseURL para http://localhost:3333/
+
 ## Instale as dependências
 $ yarn install
 
