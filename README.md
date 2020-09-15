@@ -1,7 +1,7 @@
 # :computer: Desafio 3lm!
 Este repo faz parte do processo seletivo da 3lm.
 
-Usuário teste: test2@test.com Senha: 123
+Usuário teste: test@test.com Senha: 123
 
 Deploy front-end: https://front-end3lm.herokuapp.com/ (Aguardar o time de wake-up do heroku) <br />
 Deploy back-end: https://back-end3lm.herokuapp.com/
