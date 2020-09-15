@@ -6,7 +6,7 @@ Usuário teste: test@test.com Senha: 123
 Deploy front-end: https://front-end3lm.herokuapp.com/ (Aguardar o time de wake-up do heroku) <br />
 Deploy back-end: https://back-end3lm.herokuapp.com/
 
-## :rocket: Alguma tecnologias utilizadas:
+## :rocket: Algumas tecnologias utilizadas:
 
 
 - TypeScript
